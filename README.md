@@ -15,4 +15,6 @@ Built with Python – simple, lightweight, and practical.
 Clone the repo:
 ```bash
 git clone https://github.com/NeoGarud4/Garud4-Tools
-cd neo-garuda
+pip install -r requirements.txt
+cd Garud4-Tools
+python3 neogaruda.py

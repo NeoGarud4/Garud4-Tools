@@ -1,3 +1,5 @@
+<img width="628" height="660" alt="Screenshot_2025-09-16_13_36_38" src="https://github.com/user-attachments/assets/c6b7c522-00aa-4c5f-ada1-1a7cf6d66176" />
+
 # 🦅 Neo Garuda v1.0
 
 A small but handy OSINT & tracking toolkit.  

@@ -14,5 +14,5 @@ Built with Python – simple, lightweight, and practical.
 ## 🚀 How to Run
 Clone the repo:
 ```bash
-git clone https://github.com/USERNAME/neo-garuda.git
+git clone https://github.com/NeoGarud4/Garud4-Tools
 cd neo-garuda

@@ -1,5 +1,3 @@
-<img width="628" height="660" alt="Screenshot_2025-09-16_13_36_38" src="https://github.com/user-attachments/assets/c6b7c522-00aa-4c5f-ada1-1a7cf6d66176" />
-
 # 🦅 Neo Garuda v1.0
 
 A small but handy OSINT & tracking toolkit.  
@@ -12,6 +10,8 @@ Built with Python – simple, lightweight, and practical.
 - 🖥️ Domain → IP Resolver
 - 🔁 Reverse IP Lookup
 - 📡 HTTP Header Grabber
+
+<img width="628" height="660" alt="Screenshot_2025-09-16_13_36_38" src="https://github.com/user-attachments/assets/eb9ddcbe-dc78-4d03-b49a-51e72738a6c5" />
 
 ## 🚀 How to Run
 Clone the repo:
